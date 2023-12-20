@@ -87,3 +87,39 @@ f64211b0a49589bb53523dfb88eb9937ab88c8fcea98e2aabcbee90f1828e94e
 
 # SHA256 Entry with hash description
 149ded86c52aee0bf1dc303181495af988334c9c0c6b81048d8388a7f797dc5b
+
+# MD5 Entry with hash description
+1a877b9f532a2cee135e5e4efede9131
+
+# SHA256 Entry with hash description
+24123421dd5b78b79abca07bf2dac683e574bf9463046a1d6f84d1177c55f5e5
+
+# MD5 Entry with hash description
+f2a9c02d1ee21d476e727a107c626028
+
+# SHA256 Entry with hash description
+4724ee7274c31c8d418904ee7e600d92680a54fecdac28606b1d73a28ecb0b1e
+
+# MD5 Entry with hash description
+738178902799d2ba7814e8a4e548fd47
+
+# SHA256 Entry with hash description
+e5cf252041045b037b9a358f5412ae004423ad23eac17f3b03ebef7c8147a3bb
+
+# MD5 Entry with hash description
+11ed19d5adba04a194ad98bb30f37f4f
+
+# SHA256 Entry with hash description
+5603d4035201a9e6d0e130c561bdb91f44d8f21192c8e2842def4649333757ab
+
+# MD5 Entry with hash description
+c1bed0d0b60a44b4166cd429f63909c5
+
+# SHA256 Entry with hash description
+69f245dc5e505d2876e2f2eec87fa565c707e7c391845fa8989c14acabc2d3f6
+
+# MD5 Entry with hash description
+d5b32ca6961a61af5920231046fe6399
+
+# SHA256 Entry with hash description
+c5d09435d428695ce41526b390c17557973ee9e7e1cf6ca451e5c0ae443470ca
